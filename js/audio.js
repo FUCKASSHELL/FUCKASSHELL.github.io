@@ -1,0 +1,1 @@
+var snd = new Audio("/audio/mytime.mp3");
